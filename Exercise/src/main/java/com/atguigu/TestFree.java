@@ -6,6 +6,8 @@ public class TestFree {
 		System.out.println("这是MrMiMeType的第一次提交！");
 		System.out.println("这是MrMiMeType的第二次提交！");
 		System.out.println("这是166的第一次提交！");
+		System.out.println("这是166的第二次提交！");
+		
 	}
 
 }
